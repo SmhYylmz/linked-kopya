@@ -1,0 +1,28 @@
+body{
+    overflow-x:hidden;
+}
+.logo
+{
+    height: 60px;
+}
+.absolute {
+    position: absolute;
+    top: 110px;
+    right: -150px;
+  
+  }
+  .igri {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #fff;
+    background-color: #fff;
+}
+  .ayrac {
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+    
+}
